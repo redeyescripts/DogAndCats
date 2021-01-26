@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace CatsAndDogs
 {
-    public class Dog
+    public class Cat
     {
-        internal string message;
-
-        public string Message { get; set; }
+        
+        public string url { get; set; }
     }
 }
